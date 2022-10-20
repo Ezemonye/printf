@@ -128,4 +128,4 @@ Authors
 
 Zainab Hussein | @xixee2
 
-Ezemonye Enoch | @Ezemonye
+Enoch Ezemonye | @Ezemonye
